@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Web_Api_Git", "Web_Api_Git\Web_Api_Git.fsproj", "{752928F9-E74B-44FA-9FFA-65A906D37DF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{752928F9-E74B-44FA-9FFA-65A906D37DF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{752928F9-E74B-44FA-9FFA-65A906D37DF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{752928F9-E74B-44FA-9FFA-65A906D37DF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{752928F9-E74B-44FA-9FFA-65A906D37DF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC033D72-3F27-49D9-9581-50861A7A3B16}
+	EndGlobalSection
+EndGlobal

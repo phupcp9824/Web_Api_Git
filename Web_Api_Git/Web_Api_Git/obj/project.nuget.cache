@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o2etKG21Hhj5Y7bwVntzSJV9ELXfRSzqThNcvivmWlfM31CuC/N5JSOO/ZJbOuDxtiGSnxThxgB35bk48kg+jw==",
+  "success": true,
+  "projectFilePath": "E:\\fpt fpolytechnic\\Hoc Ky 6\\C#5\\Web_Api_Git\\Web_Api_Git\\Web_Api_Git.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\fsharp.core\\8.0.200\\fsharp.core.8.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
